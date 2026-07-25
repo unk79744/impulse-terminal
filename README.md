@@ -35,10 +35,11 @@ Designed with enterprise-ready scalability, the bot incorporates fine-grained no
 
 ## Screenshots
 
-![Terminal Overview](./assets/demo1.png)
-![Signal Notification](./assets/demo2.png)
-![Configuration Panel](./assets/demo3.png)
-
+<p align="center">
+  <img src="./assets/demo1.png" width="280" alt="Main Menu" />
+  <img src="./assets/demo2.png" width="280" alt="Signal Notification" />
+  <img src="./assets/demo3.png" width="280" alt="Settings" />
+</p>
 ---
 
 ## Architecture & Workflow
