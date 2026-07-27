@@ -8,7 +8,6 @@
 [![Aiogram Version](https://img.shields.io/badge/aiogram-3.x-blue.svg)](https://docs.aiogram.dev/)
 [![CCXT Version](https://img.shields.io/badge/CCXT-4.x-green.svg)](https://github.com/ccxt/ccxt)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
 ---
 
